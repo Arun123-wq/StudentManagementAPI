@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management REST API — Experiment 10
 
 ASP.NET Core Web API project based on the uploaded .NET Technologies Experiment 10 PDF.
@@ -65,3 +66,6 @@ StudentManagementAPI/
 ├── StudentManagementAPI.http
 └── README.md
 ```
+=======
+# StudentManagementAPI
+>>>>>>> aa3d4142bf50e59ea2da4f62dd4498d3d1f7f289
